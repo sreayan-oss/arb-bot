@@ -1,0 +1,1 @@
+arbitrage detector in go. works on dummy fees, will show no data in irl fees as crypto markets are very efficient.
